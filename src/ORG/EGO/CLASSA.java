@@ -11,5 +11,6 @@ public class CLASSA {
 	System.out.println(c);
 	System.out.println(d);
 	System.out.println("sf");
+	System.out.println("code");
 }
 }
